@@ -15,7 +15,7 @@ function setup() { // 初始值設定
 
   // 創建 iframe，放在畫布後面
   let iframe = createElement('iframe');
-  iframe.attribute('src', 'https://www.myounger.com.tw/about/');
+  iframe.attribute('src', 'https://www.myounger.com.tw/features/making-process/');
   iframe.style('position', 'absolute');
   iframe.style('width', '100%');
   iframe.style('height', '100%');
